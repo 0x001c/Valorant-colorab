@@ -1,3 +1,5 @@
+U can support this project here -> bc1qa9y545nejgtvwtlhj2gpc8uvdy0p26t3rvwyu5
+
 # Computer Vision Aimbot
 
 A computer vision-based targeting system that uses color detection and Arduino-controlled mouse movement.
