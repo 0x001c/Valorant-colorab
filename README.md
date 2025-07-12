@@ -30,7 +30,7 @@ pyserial>=3.5
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/aimbot.git
+https://github.com/0x001c/Valorant-colorab.git
 cd aimbot
 ```
 
