@@ -31,7 +31,6 @@ pyserial>=3.5
 1. Clone this repository:
 ```bash
 https://github.com/0x001c/Valorant-colorab.git
-cd aimbot
 ```
 
 2. Install required packages:
